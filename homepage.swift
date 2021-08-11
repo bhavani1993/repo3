@@ -1,0 +1,3 @@
+struct student {
+    var class
+}
